@@ -3,3 +3,5 @@ My first readme
 fatal
 
 Fantastic
+
+being afraid is good when you over come it
