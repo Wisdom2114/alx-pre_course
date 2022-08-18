@@ -1,8 +1,5 @@
 My first readme
-"This is a code projected since the ==none simme
+"The second one will be coming soon enough so beware
+fatal
 
-
-he is an IQ kinda guy.
-
-
-Willst isn't she
+Fantastic
